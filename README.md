@@ -30,7 +30,7 @@ Some language bugs
 @openzeppelin/contracts
 - https://github.com/OpenZeppelin/openzeppelin-contracts
 
-
+<hr>
 
 EVM Signature databse
 - https://www.4byte.directory/
@@ -38,7 +38,7 @@ EVM Signature databse
 EVM Tools, Implementations, Code analyzers...
 - https://eth.wiki/en/concepts/evm/ethereum-virtual-machine-(evm)-awesome-list
 
-
+<hr>
 
 Secureum
 - https://secureum.substack.com/
@@ -46,12 +46,12 @@ Secureum
 Mudit Gupta on gas optimization
 - https://mudit.blog/solidity-tips-and-tricks-to-save-gas-and-reduce-bytecode-size/
 
-
+<hr>
 
 samczsun on DeFi MOOC: Lecture 12 Premiere: Practical Smart Contract Security
 - https://www.youtube.com/watch?v=pJKy5HWuFK8
 
-
+<hr>
 
 GETH
 - https://geth.ethereum.org/docs/getting-started
