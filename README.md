@@ -15,7 +15,7 @@ Audit Reports:
 - https://blog.openzeppelin.com/security-audits/
 - https://certificate.quantstamp.com/
 
-
+<hr>
 
 Solidity Development Best Practices: Known attacks, software engineering, security tools ...
 - https://consensys.github.io/smart-contract-best-practices/
