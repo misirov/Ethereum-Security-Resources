@@ -1,4 +1,4 @@
-# Security-Resorces
+# Solidity Development and Security-Resorces
 
 Smart Contract Weakness Classification and Test Cases
 - https://swcregistry.io/
@@ -55,3 +55,8 @@ samczsun on DeFi MOOC: Lecture 12 Premiere: Practical Smart Contract Security
 
 GETH
 - https://geth.ethereum.org/docs/getting-started
+
+<hr>
+
+Development resources
+- https://github.com/ConsenSys/ethereum-developer-tools-list
