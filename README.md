@@ -42,6 +42,7 @@ EVM Tools, Implementations, Code analyzers...
 
 Secureum
 - https://secureum.substack.com/
+- https://ventral.digital/posts/2021/11/28/secureum-bootcamp-audit-findings-101-quiz
 
 Mudit Gupta on gas optimization
 - https://mudit.blog/solidity-tips-and-tricks-to-save-gas-and-reduce-bytecode-size/
